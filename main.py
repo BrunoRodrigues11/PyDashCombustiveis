@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 from PIL import Image
+import openpyxl
 
 st.set_page_config(layout='wide')
 
